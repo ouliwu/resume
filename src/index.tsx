@@ -3,6 +3,11 @@ import ReactDOM from "react-dom";
 import "./index.less";
 import Pc from "./layout/pc";
 import Mobile from './layout/mobile'
+import {marked} from 'marked'
+import { mangle } from "marked-mangle";
+
+marked.use(mangle())
+
 
 var width = document.documentElement.clientWidth
 

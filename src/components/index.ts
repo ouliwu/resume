@@ -1,8 +1,6 @@
-import { Button } from './button'
+import { ResumeEditor,ResumeEditorRef } from './ResumeEditor'
 
-
-const components = {
-  Button,
+export {
+  ResumeEditor,
+  ResumeEditorRef
 }
-
-export default components

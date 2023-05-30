@@ -43,7 +43,11 @@ const baseConfig = {
         {
             test: /\.svg$/,
             type: 'asset/resource'
-        }
+        },
+        {
+        test: /\.txt$/,
+        loader: 'raw-loader'
+      }
       ],
     },
     resolve: {
