@@ -1,7 +1,7 @@
 {
   "name": "react-animation-resume",
   "version": "1.0.0",
-  "description": "饥人谷出品：一个会动的简历。欢迎 Fork ➡️",
+  "description": "使用 React + Typescript 重写会动的简历",
   "main": "index.js",
   "scripts": {
     "start": "npm run dev:dev",
