@@ -1,6 +1,3 @@
-import { ResumeEditor,ResumeEditorRef } from './ResumeEditor'
+import { ResumeEditor, ResumeEditorRef } from './ResumeEditor'
 
-export {
-  ResumeEditor,
-  ResumeEditorRef
-}
+export { ResumeEditor, ResumeEditorRef }
