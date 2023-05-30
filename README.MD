@@ -1,4 +1,4 @@
-<h1 center> webpack 5 + Typescript 版 react 项目 </h1>
+<h1 center> webpack 5 + Typescript 版本会动的简历 </h1>
 
 ## 介绍
 
