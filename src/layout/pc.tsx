@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react'
 import { ResumeEditor, ResumeEditorRef } from '../components'
-import resumeTxt from '../config/resume.txt'
+import resumeTxt from '../config/resume.md'
 
 export default function pc() {
   const interval: number = Number(process.env.interval || 0)

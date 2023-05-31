@@ -48,7 +48,7 @@ const baseConfig = {
         type: 'asset/resource',
       },
       {
-        test: /\.txt$/,
+        test: /\.md$/,
         loader: 'raw-loader',
       },
     ],
